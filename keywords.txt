@@ -1,0 +1,17 @@
+CY8_RegisterMap	KEYWORD1
+TouchCY8	KEYWORD1
+writeRegister	KEYWORD2
+writeCommand	KEYWORD2
+receiveDataByte	KEYWORD2
+receiveData	KEYWORD2
+getDeviceId	KEYWORD2
+getDeviceStatus	KEYWORD2
+changeI2CAddress	KEYWORD2
+enterSetupMode	KEYWORD2
+enterNormalMode	KEYWORD2
+restoreFactoryDefault	KEYWORD2
+softwareReset	KEYWORD2
+saveToFlash	KEYWORD2
+setupGPIO	KEYWORD2
+setupCapSense	KEYWORD2
+readStatus	KEYWORD2
